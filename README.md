@@ -1,4 +1,4 @@
-Description
+Description:
 A practical, granular financial calculator designed to compute individual and group subtotals for restaurant orders. Unlike a basic meal calculator, this program breaks down costs into distinct categories for both adults and children to handle realistic family dining scenarios.
 
 Key Features
